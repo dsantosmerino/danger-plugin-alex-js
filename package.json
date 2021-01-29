@@ -17,7 +17,7 @@
     "equality",
     "sensitive writing"
   ],
-  "version": "0.0.1",
+  "version": "0.0.1-alpha",
   "main": "dist/index.js",
   "types": "types/index.d.ts",
   "scripts": {
@@ -43,7 +43,7 @@
     "@types/jest": "^19.2.4",
     "commitizen": "^2.9.6",
     "cz-conventional-changelog": "^2.0.0",
-    "danger": "*",
+    "danger": "^10.6.0",
     "husky": "^0.13.3",
     "jest": "^26.6.3",
     "lint-staged": "^3.4.1",
