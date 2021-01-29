@@ -1,6 +1,6 @@
 // Provides dev-time type structures for  `danger` - doesn't affect runtime.
-import { DangerDSLType } from "../node_modules/danger/distribution/dsl/DangerDSL"
-import { DangerResults } from "../node_modules/danger/distribution/dsl/DangerResults"
+import { DangerDSLType } from "danger/distribution/dsl/DangerDSL"
+import { DangerResults } from "danger/distribution/dsl/DangerResults"
 declare var danger: DangerDSLType
 declare var results: DangerResults
 export declare function message(message: string): void

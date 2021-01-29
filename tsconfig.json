@@ -13,10 +13,10 @@
     "include": [
         "src/**/*.ts",
         "src/**/*.tsx",
-        "dangerfile.ts"
+        "dangerfile.js"
     ],
     "exclude": [
-        "dangerfile.ts",
+        "dangerfile.js",
         "node_modules",
         "dist"
     ]
